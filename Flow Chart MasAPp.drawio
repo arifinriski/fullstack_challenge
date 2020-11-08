@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T04:14:39.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="kFbzsHCarZwlc8aslIyC" type="github"><diagram id="OdSMoFhNrBJ5ylwYfeDp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-08T04:45:12.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="e7ivytIcx4T_C9H3DjQ2" version="13.9.2" type="github">
+  <diagram id="OdSMoFhNrBJ5ylwYfeDp" name="Page-1">
+    <mxGraphModel dx="824" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aTI20-O60HA79MHgzn83-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;sketch=1;" edge="1" parent="1" source="aTI20-O60HA79MHgzn83-1" target="aTI20-O60HA79MHgzn83-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTI20-O60HA79MHgzn83-1" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="130" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTI20-O60HA79MHgzn83-3" value="Warga" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aTI20-O60HA79MHgzn83-6" value="Flow Surat Keterangan Tidak Mampu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=21;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTI20-O60HA79MHgzn83-7" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f8cecc;shape=mxgraph.azure.user;fontSize=21;gradientColor=#ea6b66;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTI20-O60HA79MHgzn83-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Ketua RT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;strokeWidth=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aTI20-O60HA79MHgzn83-13" value="Datang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aTI20-O60HA79MHgzn83-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/call-center-and-service/32/45-Note-128.png;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="130" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aTI20-O60HA79MHgzn83-22" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.access_card;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="134.5" y="230" width="55.5" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
